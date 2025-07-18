@@ -1,14 +1,14 @@
-# my_portfolio
-🌟 Personal Portfolio Website
+
+# 🌟 Personal Portfolio Website
 This is a responsive and animated personal portfolio website built to showcase my projects, skills, experience, and services. It serves as an interactive resume and portfolio for potential employers, clients, and collaborators to view my work and reach out directly.
 
-📸 Live Preview
+# 📸 Live Preview
 🔗 View it Live: https://mishraaman05.github.io/my_portfolio/
 
-📁 Project Overview
+# 📁 Project Overview
 This project is designed with both functionality and aesthetics in mind. The goal was to create a visually appealing, responsive, and easy-to-navigate personal website that reflects my creativity and technical skills.
 
-🎯 Key Objectives:
+# 🎯 Key Objectives:
 Showcase personal and professional projects
 
 Present technical skills, experience, and services
@@ -19,7 +19,7 @@ Make the site fully responsive on all screen sizes
 
 Include animations, effects, and theme customization
 
-🔧 Technologies Used
+# 🔧 Technologies Used
 Category	Tools/Libraries
 Frontend	HTML5, CSS3, JavaScript
 Styling	CSS Flexbox, Grid, Animations
@@ -28,7 +28,7 @@ Icons	Font Awesome, custom SVGs
 JS Plugins	Typed.js for typing effects
 Deployment	GitHub Pages / Netlify
 
-📐 Website Sections
+# 📐 Website Sections
 1. Header
 Navigation with smooth scroll
 
@@ -68,7 +68,7 @@ Copyright notice
 
 Quick links and contact options
 
-🌠 Visual Effects & Customizations
+# 🌠 Visual Effects & Customizations
 Shooting stars background effect using CSS
 
 Typed.js typing animation for dynamic text
@@ -79,10 +79,7 @@ Responsive layout tested on mobile, tablet, and desktop
 
 Hover effects and animations for interactive experience
 
-🖼️ Screenshots
-(Add screenshots here of the header, about section, project cards, etc.)
-
-🚀 How to Use / Run Locally
+# 🚀 How to Use / Run Locally
 Clone the Repository
 
 bash
@@ -101,7 +98,7 @@ Replace images in assets/
 
 Customize colors, fonts, and icons in style.css
 
-Optional Hosting
+# Optional Hosting
 
 Deploy via GitHub Pages, Netlify, or Vercel
 
@@ -133,7 +130,7 @@ While this is a personal project, feel free to fork and build your own version! 
 📜 License
 This project is open source under the MIT License.
 
-📬 Connect with Me
+# 📬 Connect with Me
 🌐 Website: https://mishraaman05.github.io/my_portfolio/
 
 📧 Email: mishraaman162002@gmail.com
